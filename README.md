@@ -2,7 +2,7 @@
 
 **Course:** CMPE 2105 – Data Structures and Algorithms  
 **Language:** C++  
-**Repository:** https://github.com/mberke1597/DSAProject
+**Repository:** https://github.com/mberke1597/DSAProject.git
 
 ---
 

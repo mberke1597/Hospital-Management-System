@@ -1,0 +1,11 @@
+# Executables
+*.exe
+*.o
+
+# Documents
+*.docx
+
+# Data files
+appointments.txt
+doctors.txt
+Tasks.txt
